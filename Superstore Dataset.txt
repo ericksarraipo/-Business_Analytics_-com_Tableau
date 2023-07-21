@@ -1,0 +1,5 @@
+Superstore Dataset
+
+Com demandas crescentes e competições acirradas no mercado, um gigante das superlojas está buscando seu conhecimento para entender o que funciona melhor para eles. Eles gostariam de entender quais produtos, regiões, categorias e segmentos de clientes devem visar ou evitar.
+
+Dataset contendo informações relacionadas a vendas, lucros e outros fatos interessantes de um gigante Superstore.
